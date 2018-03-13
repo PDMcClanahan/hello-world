@@ -1,2 +1,2 @@
 # hello-world
-sector 001
+sector 001, the Terran system
